@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustration of lucerne">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3b78f"/><stop offset="1" stop-color="#fde9d4"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="330" cy="170" r="60" fill="#ffe08a" opacity=".9"/>
+<polygon fill="#6f7f9a" points="0,560 123,341 268,331 434,396 625,338 843,296 966,268 1161,328 1200,323 1200,560 1200,800 0,800"/>
+<polygon fill="#fff" opacity=".95" points="123,341 85,393 111,385 123,401 137,385 163,393"/>
+<polygon fill="#fff" opacity=".95" points="268,331 230,383 256,375 268,391 282,375 308,383"/>
+<polygon fill="#fff" opacity=".95" points="434,396 396,448 422,440 434,456 448,440 474,448"/>
+<polygon fill="#fff" opacity=".95" points="625,338 587,390 613,382 625,398 639,382 665,390"/>
+<polygon fill="#fff" opacity=".95" points="843,296 805,348 831,340 843,356 857,340 883,348"/>
+<polygon fill="#fff" opacity=".95" points="966,268 928,320 954,312 966,328 980,312 1006,320"/>
+<polygon fill="#fff" opacity=".95" points="1161,328 1123,380 1149,372 1161,388 1175,372 1201,380"/>
+<polygon fill="#fff" opacity=".95" points="1200,323 1162,375 1188,367 1200,383 1214,367 1240,375"/>
+<polygon fill="#566782" points="0,620 181,467 347,486 560,427 702,426 918,483 1059,449 1200,421 1200,620 1200,800 0,800"/>
+<polygon fill="#3d4a63" points="0,700 192,554 370,592 493,544 680,586 854,566 1008,541 1192,574 1200,573 1200,700 1200,800 0,800"/>
+<rect y="640" width="1200" height="160" fill="#4aa3c7" opacity=".85"/><path d="M0 690 Q150 670 300 690 T600 690 T900 690 T1200 690" stroke="#fff" stroke-opacity=".5" fill="none" stroke-width="4"/><path d="M0 740 Q150 720 300 740 T600 740 T900 740 T1200 740" stroke="#fff" stroke-opacity=".35" fill="none" stroke-width="4"/>
+</svg>

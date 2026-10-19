@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustration of zurich">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9b6e8"/><stop offset="1" stop-color="#f1eafb"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="297" cy="170" r="60" fill="#ffe6a8" opacity=".9"/>
+<polygon fill="#7a74a0" points="0,560 225,300 351,380 522,278 696,398 887,329 1042,275 1200,372 1200,560 1200,800 0,800"/>
+<polygon fill="#fff" opacity=".95" points="225,300 187,352 213,344 225,360 239,344 265,352"/>
+<polygon fill="#fff" opacity=".95" points="351,380 313,432 339,424 351,440 365,424 391,432"/>
+<polygon fill="#fff" opacity=".95" points="522,278 484,330 510,322 522,338 536,322 562,330"/>
+<polygon fill="#fff" opacity=".95" points="696,398 658,450 684,442 696,458 710,442 736,450"/>
+<polygon fill="#fff" opacity=".95" points="887,329 849,381 875,373 887,389 901,373 927,381"/>
+<polygon fill="#fff" opacity=".95" points="1042,275 1004,327 1030,319 1042,335 1056,319 1082,327"/>
+<polygon fill="#fff" opacity=".95" points="1200,372 1162,424 1188,416 1200,432 1214,416 1240,424"/>
+<polygon fill="#5f5a88" points="0,620 171,413 339,489 492,394 604,492 744,393 970,401 1101,453 1200,394 1200,620 1200,800 0,800"/>
+<polygon fill="#454070" points="0,700 121,598 297,553 461,616 602,615 830,608 1011,578 1154,559 1200,546 1200,700 1200,800 0,800"/>
+<rect y="640" width="1200" height="160" fill="#4aa3c7" opacity=".85"/><path d="M0 690 Q150 670 300 690 T600 690 T900 690 T1200 690" stroke="#fff" stroke-opacity=".5" fill="none" stroke-width="4"/><path d="M0 740 Q150 720 300 740 T600 740 T900 740 T1200 740" stroke="#fff" stroke-opacity=".35" fill="none" stroke-width="4"/>
+</svg>
